@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/spider-handshake.png" alt="Spider Handshake" width="100%">
+  <img src="img/spider_handshake.png" alt="Spider Handshake" width="100%">
 </p>
 
 # Spider Handshake
