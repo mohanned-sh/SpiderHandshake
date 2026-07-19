@@ -119,24 +119,6 @@ spider_handshake/
     └── temp/
 ```
 
----
-
-# Screenshots
-
-<p align="center">
-  <img src="img/menu.png" width="90%">
-</p>
-
-<p align="center">
-  <img src="img/scan.png" width="90%">
-</p>
-
-<p align="center">
-  <img src="img/success.png" width="90%">
-</p>
-
----
-
 # Notes
 
 - Requires root privileges.
