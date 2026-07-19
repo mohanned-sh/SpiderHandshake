@@ -145,6 +145,16 @@ spider_handshake/
 
 ---
 
+# Disclaimer
+
+This project is intended for educational purposes, cybersecurity training, and authorized penetration testing only.
+
+By using this software, you agree to use it only on networks and systems that you own or for which you have obtained explicit permission.
+
+Any unauthorized use of this tool against third-party networks or systems may violate applicable laws. The developer is not responsible for any misuse, illegal activity, or damages resulting from the use of this software.
+
+---
+
 # License
 
 This project is intended for educational and authorized security testing purposes only.
