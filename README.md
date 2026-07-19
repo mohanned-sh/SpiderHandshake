@@ -15,7 +15,6 @@ The tool is designed to automate repetitive tasks while keeping the workflow sim
 # Features
 
 - Interactive terminal interface.
-- Animated ASCII banner.
 - Automatic wireless interface detection.
 - Automatic Monitor Mode activation.
 - WPA/WPA2 network scanning.
