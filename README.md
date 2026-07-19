@@ -61,7 +61,7 @@ sudo apt install git python3 python3-pip aircrack-ng python3-colorama -y
 ## Step 3 – Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/spider-handshake.git
+git clone https://github.com/mohanned-sh/SpiderHandshake.git
 ```
 
 ---
@@ -69,7 +69,7 @@ git clone https://github.com/USERNAME/spider-handshake.git
 ## Step 4 – Enter Project Directory
 
 ```bash
-cd spider-handshake
+cd SpiderHandshake
 ```
 
 ---
